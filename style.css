@@ -1,0 +1,67 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOdvI2Mxk2OYkuiAzx-5RnQcOfKpsFb3dBQ&s");
+    background-size: cover;
+    font-size: 30px;
+}
+#n{
+    color: red;
+    background-color: black;
+}
+.new{
+    color: white;
+    text-align: center;
+    position:absolute;
+    top: 25%;
+    left:32%;
+}
+.q{
+    position: absolute;
+    top: 43%;
+    left: 37%;
+    color: white;
+    font-size: 20px;
+}
+.w{
+    position: absolute;
+    top:49%;
+    left:30%;
+    color: white;
+    font-size: 20px;
+}
+.t{
+    position: absolute;
+    left:37%;
+    color: white;
+    font-size: 20px;
+}
+.srch{
+    position: absolute;
+    top: 60%;
+    left: 32%;
+    color: white;
+    background-color:transparent;
+    height: 48px;
+    width: 260px;
+    border-color: white;
+}
+.btn1{
+    position: absolute;
+    top: 60%;
+    left: 58%;
+    background-color: red;
+    color: white;
+    height: 55px;
+    width: 190px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btn2{
+    position: absolute;
+    top:7% ;
+    left:85% ;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+}
